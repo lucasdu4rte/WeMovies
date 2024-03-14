@@ -10,6 +10,8 @@ WeMovies é um web app para comprar filmes, construído com React, projetado par
 <img width="auto" height="350" src="demo.gif" alt="Video de demonstração do uso do App" />
 
 
+Layout responsivo baseado no dispositivo utilizado:
+
 <img width="auto" height="200" src="image.png" alt="Video de demonstração do uso do App" />
 
 ## Features
